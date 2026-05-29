@@ -1,0 +1,8 @@
+{
+  "board": {
+    "filename": "board-a-main.kicad_pcb"
+  },
+  "sheets": [
+    ["root", "board-a-main.kicad_sch"]
+  ]
+}
