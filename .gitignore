@@ -4,3 +4,39 @@
 _autosave-*
 fp-info-cache
 fabrication/
+
+# KiCAD lock files
+~*.lck
+
+# KiCAD session history
+.history/
+
+# DRC/ERC reports (generated)
+*_drc_violations.json
+*_erc_violations.json
+
+# Snapshots (large, recoverable)
+snapshots/
+
+# Claude Code local files
+.claude/
+
+# Standard KiCAD library copies (not custom content)
+libs/Capacitor_SMD.pretty/
+libs/Connector_FFC-FPC.pretty/
+libs/Connector_JST.pretty/
+libs/Connector_PinHeader_2.54mm.pretty/
+libs/Connector_USB.pretty/
+libs/Package_DFN_QFN.pretty/
+libs/Package_TO_SOT_SMD.pretty/
+libs/Package_TSSOP.pretty/
+libs/Package_VSSOP.pretty/
+libs/Resistor_SMD.pretty/
+libs/LED_SMD.pretty/
+libs/Button_Switch_SMD.pretty/
+libs/Sensor_Humidity.pretty/
+libs/Sensor_Motion.pretty/
+libs/Battery_Management.pretty/
+libs/Regulator_Linear.pretty/
+libs/Interface_Expansion.pretty/
+libs/Power_Protection.pretty/
