@@ -539,11 +539,26 @@
     "net_colors": null,
     "netclass_assignments": null,
     "netclass_patterns": [
-      { "netclass": "ANALOG", "pattern": "ECG_RA" },
-      { "netclass": "ANALOG", "pattern": "ECG_LA" },
-      { "netclass": "ANALOG", "pattern": "ECG_RA_F" },
-      { "netclass": "ANALOG", "pattern": "ECG_LA_F" },
-      { "netclass": "ANALOG", "pattern": "ECG_OUT" }
+      {
+        "netclass": "ANALOG",
+        "pattern": "ECG_RA"
+      },
+      {
+        "netclass": "ANALOG",
+        "pattern": "ECG_LA"
+      },
+      {
+        "netclass": "ANALOG",
+        "pattern": "ECG_RA_F"
+      },
+      {
+        "netclass": "ANALOG",
+        "pattern": "ECG_LA_F"
+      },
+      {
+        "netclass": "ANALOG",
+        "pattern": "ECG_OUT"
+      }
     ]
   },
   "pcbnew": {
@@ -670,8 +685,8 @@
     "top_level_sheets": [
       {
         "filename": "board-b-sensor.kicad_sch",
-        "name": "board-b-sensor",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "name": "",
+        "uuid": "3867271d-59cd-40bb-b61f-1f9f1f22a830"
       }
     ],
     "used_designators": "",
@@ -679,8 +694,8 @@
   },
   "sheets": [
     [
-      "04be210a-f16b-4454-a85d-38762c543f30",
-      "board-b-sensor.kicad_sch"
+      "3867271d-59cd-40bb-b61f-1f9f1f22a830",
+      ""
     ]
   ],
   "text_variables": {},
