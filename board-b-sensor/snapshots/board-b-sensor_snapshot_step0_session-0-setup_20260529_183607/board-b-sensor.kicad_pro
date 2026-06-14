@@ -1,8 +1,0 @@
-{
-  "board": {
-    "filename": "board-b-sensor.kicad_pcb"
-  },
-  "sheets": [
-    ["root", "board-b-sensor.kicad_sch"]
-  ]
-}

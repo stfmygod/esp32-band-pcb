@@ -689,7 +689,7 @@
         "uuid": "3867271d-59cd-40bb-b61f-1f9f1f22a830"
       }
     ],
-    "used_designators": "",
+    "used_designators": "#PWR1-42,#FLG1-3,R1-15,J1,IC1,C1-9,U1-4,Q1-3,C_LDO_IN1,C_LDO_OUT1-2,J_POGO_RLD1-4,J_GSR+1,J_GSR\\-1,J_LA1,J_RA1",
     "variants": []
   },
   "sheets": [
